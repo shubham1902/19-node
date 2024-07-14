@@ -1,0 +1,15 @@
+{
+  "name": "todo-bakcend",
+  "version": "1.0.0",
+  "description": "simple todo backend gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\\shubham joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
